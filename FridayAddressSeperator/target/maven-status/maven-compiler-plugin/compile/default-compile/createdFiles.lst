@@ -1,0 +1,6 @@
+com/friday/AddressError.class
+com/friday/vo/AddressSeperator.class
+com/friday/AddressRequest.class
+com/friday/AddressResponse.class
+com/friday/Address.class
+com/friday/rest/JSONService.class
